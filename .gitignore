@@ -3,6 +3,23 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Files
+/Vero
+/Sylv
+/Ines
+/Evan
+/angry
+/disgust
+/database
+/disgust
+/happy
+/neutral
+/sad
+/scared
+/surprise
+/Tom
+/venv
+
 # C extensions
 *.so
 
